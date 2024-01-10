@@ -9,7 +9,7 @@ This repository is maintained through a collaboration between:
 
 CRMcpr is an extension of the CIDOC CRM standard (https://www.cidoc-crm.org) and FRBRoo (https://cidoc-crm.org/frbroo/) designed to support the representation of creative processes in their historical evolution through different phases with different products (informational and physical) down to, potentially, the manifest artistic object. It introduces the key concepts of oeuvre and modelling of programming, design, and planing phases of a creative process in order to support the representation of the provenance and eventual origins of artistic objects in a flow of creative acts. For details of this modelling pattern and strategy please refer to the specification and surrounding documentation.
 
-The CRMcpr extension is developed and maintained using the OntoMe tool. The project space for CRMaaa can be found here:
+The CRMcpr extension is developed and maintained using the OntoMe tool. The project space for CRMcpr can be found here:
 
 https://ontome.net/project/30
 
