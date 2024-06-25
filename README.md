@@ -20,3 +20,5 @@ Discussions, suggestions and queries relative to the ontology should be raised u
 In this repository users will find the different stable versions of CRMcpr which can be used for creating, managing and querying semantic data using the CIDOC CRM, FRBRoo and the CRMcpr ontologies. Each release includes at least a specification document in pdf format, explaining the ontology, and an rdfs file which enables its implementation as a semantic web ontology in rdfs supporting platforms and systems.
 
 This is version 1.5.1
+
+Please note a technical update was made to the RDF to improve its compatibility. When adopting the RDF in the serialization folder, please make use of the CRM_CPR_1.5.1.1.rdf file which contains the most correct serialization.
