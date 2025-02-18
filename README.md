@@ -1,5 +1,7 @@
 ## CRM Creative Process Representation Repository Description ##
 
+__This repository is now superceded by https://github.com/swiss-art-research-net/cpro. CRMcpr has become CPRo and is developed, as of version 2.0, in the new repository. The present repository will no longer be updated. Please follow the link to the new repository to get all future updates to this ontology.__
+
 This repository exists to provide a point of access for users to download the stable releases of the Creative Process Representation (CRMcpr).
 
 This repository is maintained through a collaboration between:
